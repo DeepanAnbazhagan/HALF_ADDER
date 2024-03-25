@@ -12,11 +12,11 @@
 # Carry = A AND B
 ![image](https://github.com/RESMIRNAIR/HALF_ADDER/assets/154305926/988ae131-0822-4d23-941b-eaafad349a72)
 # Program:
-     module halfadder( a, b, sum ,carry) ;
-     input a,b;
-     output sum, carry;
-     xor gl (sum, a,b);
-     and g2 (carry, a,b);
+     module halfadder( a, b, s, c) ;
+     input a, b;
+     output s, c;
+     xor gl (s, a,b);
+     and g2 (c, a,b);
      endmodule
 # Elaborated Design:
 ![Screenshot (53)](https://github.com/DeepanAnbazhagan/HALF_ADDER/assets/164902865/9e65143e-e220-413b-9db7-5c8f51567bda)
