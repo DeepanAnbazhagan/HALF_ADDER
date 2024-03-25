@@ -18,6 +18,10 @@
      xor gl (sum, a,b);
      and g2 (carry, a,b);
      endmodule
-# Elaborated Design
+# Elaborated Design:
 ![Screenshot (68)](https://github.com/DeepanAnbazhagan/HALF_ADDER/assets/164902865/baea8779-9f7b-4837-9f09-f9ef87390c44)
-     
+# Output: 
+![Screenshot (55)](https://github.com/DeepanAnbazhagan/HALF_ADDER/assets/164902865/2ecd6c3e-a67d-4055-97b3-18b46ca392b7)
+# RESULT:
+Thus the simulate and synthesis half adder verified successfully by using Vivado software.
+
