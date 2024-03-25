@@ -19,5 +19,5 @@ xor gl (sum, a,b);
 and g2 (carry, a,b);
 endmodule
 # Elaborated Design
-![image](C:\Users\Windows\Pictures\Screenshots\Screenshot (68).png).
+![Screenshot (68)](https://github.com/DeepanAnbazhagan/HALF_ADDER/assets/164902865/baea8779-9f7b-4837-9f09-f9ef87390c44)
      
