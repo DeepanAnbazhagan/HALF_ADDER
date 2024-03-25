@@ -1,8 +1,8 @@
 # HALF_ADDER
 # AIM:
-     To simulate and synthesis half adder using Vivado software.
+To simulate and synthesis half adder using Vivado software.
 # APPARATUS REQUIRED:
-     Vivado 2023.1 software.
+Vivado 2023.1 software.
 # Truth Table:
 ![image](https://github.com/RESMIRNAIR/HALF_ADDER/assets/154305926/fe672c28-5c6a-4355-b70f-b40bce63880d)
 # Circuit Diagram:
@@ -12,12 +12,12 @@
 # Carry = A AND B
 ![image](https://github.com/RESMIRNAIR/HALF_ADDER/assets/154305926/988ae131-0822-4d23-941b-eaafad349a72)
 # Program:
-     module halfadder( a, b, s, c) ;
-     input a, b;
-     output s, c;
-     xor gl (s, a,b);
-     and g2 (c, a,b);
-     endmodule
+module halfadder( a, b, s, c) ;
+input a, b;
+output s, c;
+xor gl (s, a,b);
+and g2 (c, a,b);
+endmodule
 # Elaborated Design:
 ![Screenshot (53)](https://github.com/DeepanAnbazhagan/HALF_ADDER/assets/164902865/9e65143e-e220-413b-9db7-5c8f51567bda)
 # Output: 
