@@ -13,11 +13,11 @@
 ![image](https://github.com/RESMIRNAIR/HALF_ADDER/assets/154305926/988ae131-0822-4d23-941b-eaafad349a72)
 # Program:
      module halfadder( a, b, sum ,carry) ;
-input a,b;
-output sum, carry;
-xor gl (sum, a,b);
-and g2 (carry, a,b);
-endmodule
+     input a,b;
+     output sum, carry;
+     xor gl (sum, a,b);
+     and g2 (carry, a,b);
+     endmodule
 # Elaborated Design
 ![Screenshot (68)](https://github.com/DeepanAnbazhagan/HALF_ADDER/assets/164902865/baea8779-9f7b-4837-9f09-f9ef87390c44)
      
